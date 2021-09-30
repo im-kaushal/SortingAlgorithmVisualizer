@@ -1,2 +1,2 @@
-# sorting_visualizer
-# [click here](https://vigneshwar-yadav.github.io/sorting_visualizer/)
+# SortingAlgorithmVisualizer
+# [Click Here](https://im-kaushal.github.io/SortingAlgorithmVisualizer/)
